@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfda8877.chunk.css",
+    "main.js": "/static/js/main.1b693038.chunk.js",
+    "main.js.map": "/static/js/main.1b693038.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.89df39cc.chunk.js": "/static/js/2.89df39cc.chunk.js",
+    "static/js/2.89df39cc.chunk.js.map": "/static/js/2.89df39cc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2d692c02a019e3c73e8760202b6f8baf.js": "/precache-manifest.2d692c02a019e3c73e8760202b6f8baf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/static/css/main.cfda8877.chunk.css.map",
+    "static/media/arrow-down-bold.svg": "/static/media/arrow-down-bold.f6e1f90c.svg",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.5434740c.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.11ea5efb.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  }
+}
